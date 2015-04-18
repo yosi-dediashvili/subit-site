@@ -1,0 +1,1 @@
+This repository holds the latest design of SubiT's website.
